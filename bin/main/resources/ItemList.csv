@@ -1,0 +1,5 @@
+Name,Stat To Buff,Buff Amount,Price
+Steak,Attack,5,30
+Salad,MaxHealth,50,30
+Potion,CurrentHealth,100,10
+Fish,Attack,2,10

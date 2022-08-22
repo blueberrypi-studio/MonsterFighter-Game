@@ -1,0 +1,10 @@
+Move Type,Target Type,,,,,,,
+,Normal,Fire,Ice,Light,Dark,Water,Thunder,Earth
+Normal,1,1,1,1,1,1,1,1
+Fire,1,0.5,2,1,1,0.5,1,1
+Ice,1,0.5,0.5,1,1,2,1,1
+Light,1,1,1,0.5,2,1,1,1
+Dark,1,1,1,2,0.5,1,1,1
+Water,1,2,0.5,1,1,0.5,1,1
+Earth,1,1,1,1,1,1,2,0.5
+Thunder,1,1,1,1,1,2,0.5,0.5

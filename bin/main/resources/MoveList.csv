@@ -1,0 +1,45 @@
+Name,Damage,Type,Rarity
+Devour,120,Dark,Legendary
+Void-Beam,70,Dark,Rare
+Torment,60,Dark,Uncommon
+Shriek,20,Dark,Common
+Soul Gaze,60,Dark,Uncommon
+Mercy-By-Death,100,Dark,Super-Rare
+Earthquake,120,Earth,Legendary
+Fissure,85,Earth,Super-Rare
+Boulder,70,Earth,Rare
+Rock-Throw,50,Earth,Common
+Pebble Throw,20,Earth,Common
+Singe,20,Fire,Common
+Melt,50,Fire,Common
+Fireball,60,Fire,Uncommon
+Flamethrower,100,Fire,Super-Rare
+Lava-pit,70,Fire,Rare
+Ice-Beam,70,Ice,Rare
+Freeze,50,Ice,Common
+Chill,20,Ice,Common
+Ice-Shards,60,Ice,Uncommon
+Snowball,40,Ice,Common
+Avalanche,110,Ice,Legendary
+Smite,90,Light,Super-Rare
+Shine,20,Light,Common
+Purify,60,Light,Uncommon
+Blinding Light ,50,Light,Uncommon
+Holy Demise,115,Light,Legendary
+Whack,20,Normal,Common
+Tackle,50,Normal,Common
+Enraged-Assault,100,Normal,Legendary
+Chomp,70,Normal,Rare
+Body-Slam,85,Normal,Super-Rare
+Headbutt,60,Normal,Uncommon
+Bash,65,Normal,Uncommon
+Static-Discharge,20,Thunder,Common
+Shock,50,Thunder,Common
+Electro-Orb,70,Thunder,Rare
+Spit,20,Water,Common
+Torrent,75,Water,Rare
+Tsunami,110,Water,Legendary
+Steady-Flow,50,Water,Uncommon
+High-Pressure-Stream,65,Water,Uncommon
+Water-Cannon,90,Water,Super-Rare
+Misery,50,Dark,Uncommon
