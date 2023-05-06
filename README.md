@@ -1,6 +1,6 @@
 # MonsterFighter-Game
 Here is my game made for a university group project
 
-It runs on java 17, to run the game, simply download the .jar file and run it
----
 
+## Install Instructions
+The game runs on JAVA 17 and can be installed from [releases](https://github.com/blueberrypi-studio/MonsterFighter-Game/releases/tag/V1.0)
